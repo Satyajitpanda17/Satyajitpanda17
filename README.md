@@ -49,6 +49,19 @@ I'm a **SOFTWARE DEVELOPER**  from India with experience in building robust mobi
 - **Time & Work Management**: Proficient in organizing tasks, setting priorities, and meeting deadlines.
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyajitpanda17&show_icons=true&theme=radical&include_all_commits=true" alt="satyajitpanda" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajitpanda17&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+---
+### 📈 Contribution Graph
+
+[![Satyajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyajitpanda17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🎓 Education 
  <img src="https://www.cet.edu.in/images/logo.png" style="height:50px"/> Bachelor of Technology in Computer science and Engineering from Odisha University of Technology and Research.
