@@ -10,13 +10,25 @@ I'm a **SOFTWARE DEVELOPER**  from India with experience in building robust mobi
 
 ## 🚀 Technologies Used
 <div style="display:flex">
- <img src="https://img.icons8.com/?size=50&id=7I3BjCqe9rjG&format=png&color=000000"/></a>
- <img src="https://img.icons8.com/?size=50&id=7AFcZ2zirX6Y&format=png&color=000000"/></a>
- <img src="https://img.icons8.com/?size=50&id=87330&format=png&color=000000"/></a>
- <img src="https://img.icons8.com/?size=50&id=54087&format=png&color=000000"/></a>
- <img src="https://img.icons8.com/?size=50&id=2ZOaTclOqD4q&format=png&color=000000"/></a>
- <img src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000"/></a>
- <img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=7I3BjCqe9rjG&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=7AFcZ2zirX6Y&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=87330&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=54087&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=2ZOaTclOqD4q&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=13679&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=108784&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=24895&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=31085&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=rHpveptSuwDz&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=J6KcaRLsTgpZ&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=40669&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=40670&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=cREyrHivHRHF&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=QEQQKirln6Tf&format=png&color=000000"/></a>
+ <img src="https://avatars.githubusercontent.com/u/55202745?s=70&v=4"/></a>
+ <img src="https://img.icons8.com/?size=70&id=yjSayFwWHyCo&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=17836&format=png&color=000000"/></a>
+ <img src="https://img.icons8.com/?size=70&id=17843&format=png&color=000000"/></a>
 </div>
 
 ### App Development
