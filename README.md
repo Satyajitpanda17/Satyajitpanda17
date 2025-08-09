@@ -2,6 +2,9 @@
 
 <h3 align="center">Welcome to my GitHub profile! </h3>
 
+🚀 ***Aspiring Software Engineer | Full-Stack Developer | Flutter Enthusiast***  
+💡 Passionate about building efficient, scalable, and user-friendly applications across platforms. 
+
 I'm a **SOFTWARE DEVELOPER**  from India with experience in building robust mobile and web applications using modern technologies. 
 
 **Interesting Fact** : I am a **Badminton player** and a **DANCER** too.
@@ -49,6 +52,22 @@ I'm a **SOFTWARE DEVELOPER**  from India with experience in building robust mobi
 - **Time & Work Management**: Proficient in organizing tasks, setting priorities, and meeting deadlines.
 
 ---
+## 🎓 Education 
+<div style="display: flex; align-items: center;">
+  <img src="https://www.cet.edu.in/images/logo.png" alt="OUTR Logo" style="height:35px; margin-right:10px;">
+  <span style="font-size:18px;">
+    Bachelor of Technology in <b>Computer Science and Engineering</b> from Odisha University of Technology and Research
+  </span>
+</div>
+---
+
+## 🏆 Achievement Unlocked
+- **Top 100** out of **1,24,564 participants** in ***Deloitte Hacksplosion*** for exceptional problem-solving and innovation.
+- Recognized as the **Top Performing Participant** from my college in **Smart India Hackathon (SIH)**.
+- Achieved **Top Performer** status from my college in **HackOdisha**, delivering innovative and scalable solutions under tight deadlines.
+
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -56,16 +75,10 @@ I'm a **SOFTWARE DEVELOPER**  from India with experience in building robust mobi
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajitpanda17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
----
+
 ### 📈 Contribution Graph
 
 [![Satyajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyajitpanda17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎓 Education 
- <img src="https://www.cet.edu.in/images/logo.png" style="height:50px"/> Bachelor of Technology in Computer science and Engineering from Odisha University of Technology and Research.
-  
 
 ---
 
